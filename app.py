@@ -4,7 +4,7 @@ import altair as alt
 
 
 # CSV dosyasını yükle
-uploaded_file = "/root/repos/streamlit/MC_Jump_Campaign_Timeline/uploaded_data.csv"
+uploaded_file = "uploaded_data.csv"
 
 if uploaded_file is not None:
     # Veri setini DataFrame'e yükle
